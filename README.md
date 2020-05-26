@@ -1,0 +1,2 @@
+# game-one
+This is a web-based tool for the personal use of my friends and I to play D&amp;D 5e (though ideally functionality for other tabletop RPGs will be added as well). The tool takes inspiration from the likes of WorldAnvil, D&amp;D Beyond, and Roll20.net to create a browser based all-in-one RPG tool including user-based character creation, a browser-based gaming environment, and powerful world building and GMing tools.
